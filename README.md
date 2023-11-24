@@ -5,8 +5,8 @@ Program do odliczania odległości za pomocą dalkomierza LIDAR, sprawdzania tem
 
 ![image](https://github.com/SXC-150/LiDAR/assets/98900646/2a4d5cea-8b11-41e3-bc72-b40110473f2f)
 ![image](https://github.com/SXC-150/LiDAR/assets/98900646/963e4d0a-7da0-4bad-b145-6e31a6739981)![image](https://github.com/SXC-150/LiDAR/assets/98900646/d78f5b2a-47c0-468c-9510-5a4fc9ab5460)
-
-
+![image](https://github.com/SXC-150/LiDAR/assets/98900646/30ea9236-7bb1-4bf3-aa1a-4724b50b6965)![image](https://github.com/SXC-150/LiDAR/assets/98900646/4af14aec-3045-4158-820b-d616127e1de8)
+![image](https://github.com/SXC-150/LiDAR/assets/98900646/f90bc3a8-fadf-474b-a646-982651a46962)
 
 Użyte części w projekcie:
 
